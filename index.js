@@ -11,5 +11,5 @@ function multiply(a, b) {
 }
 
 function divide(a, b) {
-  retrun parseInt(a) / parseInt(b);
+  return parseInt(a) / parseInt(b);
 }
